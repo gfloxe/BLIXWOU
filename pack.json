@@ -1,5 +1,5 @@
 {
-  "ready": false,
+  "ready": true,
   "allowEmptyMods": false,
   "schemaVersion": 1,
   "versions": {"minecraft": "1.21.10", "neoforge": "21.10.64", "java": 21},
