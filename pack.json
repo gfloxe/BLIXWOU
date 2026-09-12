@@ -1,0 +1,8 @@
+{
+  "ready": false,
+  "allowEmptyMods": false,
+  "schemaVersion": 1,
+  "versions": {"minecraft": "1.21.10", "neoforge": "21.10.64", "java": 21},
+  "server": {"host": "BLIXWOU.exaroton.me", "port": 48255},
+  "socials": {"discord": null, "website": null, "tiktok": null, "youtube": null}
+}
