@@ -15,11 +15,11 @@
     "tiktok": null,
     "youtube": null
   },
-  "packVersion": "49b7c12863e3127d89f9ffef2f7519168c2fc508",
+  "packVersion": "8523117fd2f8f483c9ee494af49c4cd2ee8444bd",
   "files": [
     {
       "path": "mods/Almanac-1.21.1-2-neoforge-1.5.2.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/Almanac-1.21.1-2-neoforge-1.5.2.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/Almanac-1.21.1-2-neoforge-1.5.2.jar",
       "size": 25593,
       "sha256": "379893246c33aaa6dd8e4a8711e349cd6835e08c2bd5b8bd7b7e81be9822aacb",
       "side": "client",
@@ -27,7 +27,7 @@
     },
     {
       "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/BadOptimizations-2.4.1-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/BadOptimizations-2.4.1-1.21.1.jar",
       "size": 283566,
       "sha256": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba",
       "side": "client",
@@ -35,7 +35,7 @@
     },
     {
       "path": "mods/Chunky-NeoForge-1.4.23.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/Chunky-NeoForge-1.4.23.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/Chunky-NeoForge-1.4.23.jar",
       "size": 340572,
       "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274",
       "side": "client",
@@ -43,7 +43,7 @@
     },
     {
       "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "size": 18382,
       "sha256": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
       "side": "client",
@@ -51,7 +51,7 @@
     },
     {
       "path": "mods/CodeChickenLib-1.21.1-4.6.1.529.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/CodeChickenLib-1.21.1-4.6.1.529.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/CodeChickenLib-1.21.1-4.6.1.529.jar",
       "size": 1538382,
       "sha256": "8c453d5c49092860e9d7a692eb858ea54c15d0f9598daae524f9590f8edf276f",
       "side": "client",
@@ -59,7 +59,7 @@
     },
     {
       "path": "mods/GazEdit-NeoForge-1.21.1-v1.1.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/GazEdit-NeoForge-1.21.1-v1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/GazEdit-NeoForge-1.21.1-v1.1.0.jar",
       "size": 35567,
       "sha256": "2b1ee44826fc649f9e94d85221a14a07550804c0cceb93aed51b205cbcc2a293",
       "side": "client",
@@ -67,7 +67,7 @@
     },
     {
       "path": "mods/ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/ImmediatelyFast-NeoForge-1.6.13%2B1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/ImmediatelyFast-NeoForge-1.6.13%2B1.21.1.jar",
       "size": 362740,
       "sha256": "fa3aec87e9880d0a8ab9663c96ad0206fd59de5e71acfccbebc264f7ad0ae153",
       "side": "client",
@@ -75,7 +75,7 @@
     },
     {
       "path": "mods/architectury-13.0.11-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/architectury-13.0.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/architectury-13.0.11-neoforge.jar",
       "size": 584734,
       "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb",
       "side": "client",
@@ -83,7 +83,7 @@
     },
     {
       "path": "mods/blixwou-menu-1.21.1-1.1.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/blixwou-menu-1.21.1-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/blixwou-menu-1.21.1-1.1.0.jar",
       "size": 2357532,
       "sha256": "22aa5aa84298eb18e3122334399126046625112cb7ec7360525599313adcced2",
       "side": "client",
@@ -91,7 +91,7 @@
     },
     {
       "path": "mods/blockcloner-neoforge-1.21.1-1.0.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/blockcloner-neoforge-1.21.1-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/blockcloner-neoforge-1.21.1-1.0.1.jar",
       "size": 218931,
       "sha256": "072e8ac01a86e2e7f02a78fe699809be30a1d7a06a1d21930d687a9af017e299",
       "side": "client",
@@ -99,7 +99,7 @@
     },
     {
       "path": "mods/capybara-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/capybara-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/capybara-1.0.0.jar",
       "size": 357911,
       "sha256": "568832e7f3bdde1f1b41e52d4651822ee0eaa58a98eb74c1dee9caae416096ba",
       "side": "client",
@@ -107,7 +107,7 @@
     },
     {
       "path": "mods/craftlock-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/craftlock-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/craftlock-1.0.0.jar",
       "size": 34097,
       "sha256": "c38febb8473f2247415e26b939cda739aa79d139702939be1a8c4f19214e8fc5",
       "side": "client",
@@ -115,7 +115,7 @@
     },
     {
       "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/curios-neoforge-9.5.1%2B1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/curios-neoforge-9.5.1%2B1.21.1.jar",
       "size": 410690,
       "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
       "side": "client",
@@ -123,7 +123,7 @@
     },
     {
       "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
       "size": 220193,
       "sha256": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
       "side": "client",
@@ -131,7 +131,7 @@
     },
     {
       "path": "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
       "size": 1585287,
       "sha256": "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02",
       "side": "client",
@@ -139,7 +139,7 @@
     },
     {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/ferritecore-7.0.3-neoforge.jar",
       "size": 121559,
       "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
       "side": "client",
@@ -147,7 +147,7 @@
     },
     {
       "path": "mods/fracturepoint-1.21.1-3.0.0-PT2.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/fracturepoint-1.21.1-3.0.0-PT2.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/fracturepoint-1.21.1-3.0.0-PT2.jar",
       "size": 2240442,
       "sha256": "5b2e991875e9aa72bf8e8ceaf615e414958837df3c850efe982c9c3677694cbb",
       "side": "client",
@@ -155,7 +155,7 @@
     },
     {
       "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/geckolib-neoforge-1.21.1-4.9.2.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/geckolib-neoforge-1.21.1-4.9.2.jar",
       "size": 630584,
       "sha256": "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba",
       "side": "client",
@@ -163,7 +163,7 @@
     },
     {
       "path": "mods/getittogetherdrops-neoforge-1.21.5-1.4.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/getittogetherdrops-neoforge-1.21.5-1.4.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/getittogetherdrops-neoforge-1.21.5-1.4.jar",
       "size": 8825,
       "sha256": "a09466d03e3dde0c0f5c179146a8247b33a720a88979eb813c5f2aa2ad1c7a78",
       "side": "client",
@@ -171,7 +171,7 @@
     },
     {
       "path": "mods/horde_hoard-neoforge-1.1.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/horde_hoard-neoforge-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/horde_hoard-neoforge-1.1.0.jar",
       "size": 61311,
       "sha256": "ebedbf0b4eadff29f00857811c0d1f83fa442fd66373ba231d9db70a8a5e307c",
       "side": "client",
@@ -179,7 +179,7 @@
     },
     {
       "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
       "size": 2438548,
       "sha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
       "side": "client",
@@ -187,7 +187,7 @@
     },
     {
       "path": "mods/itemgenerator-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/itemgenerator-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/itemgenerator-1.0.0.jar",
       "size": 60502,
       "sha256": "03f6b17202c941719ad1560d4b3458ac0b1e1f4baf012027cf12775dd5d33940",
       "side": "client",
@@ -195,7 +195,7 @@
     },
     {
       "path": "mods/letmedespawn-1.21.x-neoforge-1.5.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/letmedespawn-1.21.x-neoforge-1.5.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/letmedespawn-1.21.x-neoforge-1.5.0.jar",
       "size": 14911,
       "sha256": "074ffdbe34bf97b7d15fa4db7cfff547578a9c2f547479128a43d184c4ca642a",
       "side": "client",
@@ -203,23 +203,15 @@
     },
     {
       "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
       "size": 774220,
       "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757",
       "side": "client",
       "policy": "enforced"
     },
     {
-      "path": "mods/mod_acces_level-1.2.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/mod_acces_level-1.2.1.jar",
-      "size": 192958,
-      "sha256": "8fd95148fb9247ccf68839fd51f6fa065ba9abbdb143a1190044a27fbcaf07ab",
-      "side": "client",
-      "policy": "enforced"
-    },
-    {
       "path": "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar",
       "size": 604333,
       "sha256": "e6e9446890f0feb3aab3f6e73ae18cb17575c370f232179fef7baa30e61538fe",
       "side": "client",
@@ -227,7 +219,7 @@
     },
     {
       "path": "mods/pointblank-neoforge-1.21-2.2.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/pointblank-neoforge-1.21-2.2.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/pointblank-neoforge-1.21-2.2.0.jar",
       "size": 21542134,
       "sha256": "203131e58706c623477bd6ccab91ff75e7b5389d33efa1339243cee26e7fe170",
       "side": "client",
@@ -235,7 +227,7 @@
     },
     {
       "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
       "size": 341009,
       "sha256": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4",
       "side": "client",
@@ -243,7 +235,7 @@
     },
     {
       "path": "mods/serveconomy-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/serveconomy-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/serveconomy-1.0.0.jar",
       "size": 243381,
       "sha256": "a8f6621aaa911e7adef4c074c9c38f4950f83af41c4d1b8061cf27810a14f05b",
       "side": "client",
@@ -251,7 +243,7 @@
     },
     {
       "path": "mods/serveurutils-neoforge-1.21.1-1.4.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/serveurutils-neoforge-1.21.1-1.4.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/serveurutils-neoforge-1.21.1-1.4.0.jar",
       "size": 5174866,
       "sha256": "0dbed62f608005ceb55cf787223e542ea72fcae551dd7b2d3b11a5481b6972c5",
       "side": "client",
@@ -259,7 +251,7 @@
     },
     {
       "path": "mods/servfactions-0.5.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/servfactions-0.5.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/servfactions-0.5.0.jar",
       "size": 93094,
       "sha256": "771beeb44c3bcb015aa3991c44900cb0fe1cb7b01fc6d62fe4e0f69f09cb3994",
       "side": "client",
@@ -267,7 +259,7 @@
     },
     {
       "path": "mods/set-home-waypoints-neoforge-2.0.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/set-home-waypoints-neoforge-2.0.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/set-home-waypoints-neoforge-2.0.0.jar",
       "size": 58388,
       "sha256": "ec0bb567983b45247224670eda427a605701c55b012ae98bd06fc140582fe194",
       "side": "client",
@@ -275,7 +267,7 @@
     },
     {
       "path": "mods/skybound_islands-1.4.4.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/skybound_islands-1.4.4.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/skybound_islands-1.4.4.jar",
       "size": 104991,
       "sha256": "6e6e89fe8821a4e09d4a37aaffb60e14a964b77fa3fea6e70f241662603e1aef",
       "side": "client",
@@ -283,7 +275,7 @@
     },
     {
       "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
       "size": 1162994,
       "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
       "side": "client",
@@ -291,7 +283,7 @@
     },
     {
       "path": "mods/super_tools-1.2.1-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/super_tools-1.2.1-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/super_tools-1.2.1-neoforge-1.21.1.jar",
       "size": 193052,
       "sha256": "c4eaf31f28d0074ef70bfe36baaa4f6163f2b79c840a261357360921a219a1bb",
       "side": "client",
@@ -299,7 +291,7 @@
     },
     {
       "path": "mods/worldedit-mod-7.3.8.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/worldedit-mod-7.3.8.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/worldedit-mod-7.3.8.jar",
       "size": 6222854,
       "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
       "side": "client",
@@ -307,7 +299,7 @@
     },
     {
       "path": "mods/worldmanager-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/worldmanager-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/worldmanager-1.0.0.jar",
       "size": 328637,
       "sha256": "e9f14f4bdee5cd392486ff30e3b3571001a5204363baca04035701bb547bfda8",
       "side": "client",
@@ -315,7 +307,7 @@
     },
     {
       "path": "mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
       "size": 1422680,
       "sha256": "a7f059e4c48211f6d5c962e7640f5179cc1636bccc907ea77ab9e1865635cb24",
       "side": "client",
@@ -323,7 +315,7 @@
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/shaderpacks/ComplementaryReimagined_r5.8.1.zip",
       "size": 546925,
       "sha256": "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15",
       "side": "client",
@@ -331,7 +323,7 @@
     },
     {
       "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
       "size": 546928,
       "sha256": "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965",
       "side": "client",
@@ -339,7 +331,7 @@
     },
     {
       "path": "shaderpacks/Solas Shader V3.7b.zip",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/shaderpacks/Solas%20Shader%20V3.7b.zip",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/shaderpacks/Solas%20Shader%20V3.7b.zip",
       "size": 1252311,
       "sha256": "b7dfe4c7353d677a92cc4c86b87bc0633f1014305d927ca6a482c303427bf825",
       "side": "client",
@@ -347,7 +339,7 @@
     },
     {
       "path": "shaderpacks/Solas Shader V3.7b.zip.txt",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/shaderpacks/Solas%20Shader%20V3.7b.zip.txt",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/shaderpacks/Solas%20Shader%20V3.7b.zip.txt",
       "size": 270,
       "sha256": "c6153da9d5ec4e2350f66c2e75eae4c378890ed4a5fdc5d852b1693fcc77180d",
       "side": "client",
@@ -355,7 +347,7 @@
     },
     {
       "path": "shaderpacks/photon_v1.3b.zip",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/49b7c12863e3127d89f9ffef2f7519168c2fc508/shaderpacks/photon_v1.3b.zip",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/8523117fd2f8f483c9ee494af49c4cd2ee8444bd/shaderpacks/photon_v1.3b.zip",
       "size": 3800987,
       "sha256": "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead",
       "side": "client",
