@@ -6,6 +6,7 @@ Minecraft Java **1.21.10**, NeoForge **21.10.64**.
 
 1. Déposez les fichiers `.jar` destinés aux joueurs dans `mods/`. Remplacez les anciennes versions dans le dépôt ; ne laissez pas deux versions du même mod.
 2. Les mods exclusivement serveur vont dans `server-mods/` : ils ne sont pas téléchargés par le launcher.
+   ServeurUtils contient aussi des fonctions client : gardez son JAR dans `mods/` pour les joueurs et dans `server-mods/` si le serveur en a besoin.
 3. Facultatif : placez les réglages dans `config/`. Ils sont copiés une première fois puis préservés chez le joueur.
 4. Validez les fichiers sur la branche `main`. Dans l’onglet **Actions**, attendez que **Publier le pack BLIXWOU** soit vert.
 5. L’action produit `manifest.json` automatiquement : nom, taille et SHA-256 exact de chaque fichier. Les téléchargements pointent vers le commit correspondant, afin de ne pas mélanger deux versions.
