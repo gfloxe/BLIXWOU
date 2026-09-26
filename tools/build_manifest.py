@@ -6,6 +6,8 @@ from pathlib import Path
 import re
 from urllib.parse import quote
 
+SERVER_ONLY_MOD_PREFIXES = ('serveurutils-',)
+
 
 def build(root, repository, commit):
     if not re.fullmatch(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+', repository):
@@ -30,6 +32,10 @@ def build(root, repository, commit):
             relative = path.relative_to(root).as_posix()
             if folder == 'mods' and path.suffix.lower() != '.jar':
                 raise ValueError('Seuls les .jar sont acceptes dans mods : ' + relative)
+            # Syncora mirrors server mods into mods/; never distribute server-only code
+            # to players even when that external sync adds the file again.
+            if folder == 'mods' and path.name.casefold().startswith(SERVER_ONLY_MOD_PREFIXES):
+                continue
             for part in relative.split('/'):
                 if part.endswith(('.', ' ')) or re.search(r'[<>:"\\|?*\x00-\x1f]', part) or re.match(r'(?i)^(con|prn|aux|nul|com[0-9]|lpt[0-9])(?:\.|$)', part):
                     raise ValueError('Nom incompatible Windows : ' + relative)

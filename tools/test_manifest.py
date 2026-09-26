@@ -15,6 +15,7 @@ class ManifestTests(unittest.TestCase):
             (root / 'mods').mkdir()
             (root / 'server-mods').mkdir()
             (root / 'server-mods/ignored.jar').write_bytes(b'server')
+            (root / 'mods/serveurutils-neoforge-1.21.1-1.5.0.jar').write_bytes(b'server')
             mod = root / 'mods/a.jar'
             mod.write_bytes(b'first')
             first = build(root, 'example/BLIXWOU', 'a' * 40)
