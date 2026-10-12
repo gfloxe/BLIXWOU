@@ -15,7 +15,7 @@
     "tiktok": null,
     "youtube": null
   },
-  "packVersion": "debian-1791845893895086868",
+  "packVersion": "debian-1791847907146690205",
   "files": [
     {
       "path": "mods/Almanac-1.21.1-2-neoforge-1.5.2.jar",
@@ -250,14 +250,6 @@
       "policy": "enforced"
     },
     {
-      "path": "mods/itemgenerator-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/itemgenerator-1.0.0.jar",
-      "size": 85712,
-      "sha256": "e6b05650a4cc1a9bda1ed849aed786cf19d273a4ff26046bf25fc0ecbb162354",
-      "side": "client",
-      "policy": "enforced"
-    },
-    {
       "path": "mods/letmedespawn-1.21.x-neoforge-1.5.0.jar",
       "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/letmedespawn-1.21.x-neoforge-1.5.0.jar",
       "size": 14911,
@@ -334,14 +326,6 @@
       "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/servclassements-1.0.1.jar",
       "size": 22275,
       "sha256": "7dc48bb43799d54ecc789a9c19586b770568d586bfc6252584a0e2bca78d602b",
-      "side": "client",
-      "policy": "enforced"
-    },
-    {
-      "path": "mods/serveconomy-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/serveconomy-1.0.0.jar",
-      "size": 484291,
-      "sha256": "ae4293107719b279f1cc7d41261dd12176bfa5e8f2622f28990260719c526042",
       "side": "client",
       "policy": "enforced"
     },
@@ -496,6 +480,22 @@
       "side": "both",
       "policy": "enforced",
       "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/blixgen-neoforge-1.21.1-1.3.0.jar"
+    },
+    {
+      "path": "mods/itemgenerator-1.0.0.jar",
+      "size": 85712,
+      "sha256": "e6b05650a4cc1a9bda1ed849aed786cf19d273a4ff26046bf25fc0ecbb162354",
+      "side": "both",
+      "policy": "enforced",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/itemgenerator-1.0.0.jar"
+    },
+    {
+      "path": "mods/serveconomy-1.0.0.jar",
+      "size": 484291,
+      "sha256": "ae4293107719b279f1cc7d41261dd12176bfa5e8f2622f28990260719c526042",
+      "side": "both",
+      "policy": "enforced",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/serveconomy-1.0.0.jar"
     }
   ]
 }
