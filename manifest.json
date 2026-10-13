@@ -15,7 +15,7 @@
     "tiktok": null,
     "youtube": null
   },
-  "packVersion": "debian-1791904214069812559",
+  "packVersion": "debian-1791904634871889869",
   "files": [
     {
       "path": "mods/Almanac-1.21.1-2-neoforge-1.5.2.jar",
@@ -410,14 +410,6 @@
       "policy": "enforced"
     },
     {
-      "path": "mods/worldmanager-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/worldmanager-1.0.0.jar",
-      "size": 520549,
-      "sha256": "30a77e0bf844ee42abda8abdfb2ec5518476c49b75ac854e3074c2eb2212be00",
-      "side": "client",
-      "policy": "enforced"
-    },
-    {
       "path": "mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
       "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
       "size": 1422680,
@@ -496,6 +488,14 @@
       "side": "both",
       "policy": "enforced",
       "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/blixgen-neoforge-1.21.1-1.4.0.jar"
+    },
+    {
+      "path": "mods/worldmanager-1.0.0.jar",
+      "size": 544482,
+      "sha256": "dc3cd2f4e989008b456389e4e55c0839124f3deffdfc6d756f03213c1b640576",
+      "side": "both",
+      "policy": "enforced",
+      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/worldmanager-1.0.0.jar"
     }
   ]
 }
