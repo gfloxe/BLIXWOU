@@ -15,7 +15,7 @@
     "tiktok": null,
     "youtube": null
   },
-  "packVersion": "debian-1791900026377588703",
+  "packVersion": "debian-1791901105936823792",
   "files": [
     {
       "path": "mods/Almanac-1.21.1-2-neoforge-1.5.2.jar",
@@ -480,14 +480,6 @@
       "side": "both",
       "policy": "enforced",
       "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/itemgenerator-1.0.0.jar"
-    },
-    {
-      "path": "mods/serveconomy-1.0.0.jar",
-      "size": 488150,
-      "sha256": "fa4ae04ac52b669fbf07fdb1d4792312e560844ad0c639f94e451e7c22ff4596",
-      "side": "both",
-      "policy": "enforced",
-      "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/serveconomy-1.0.0.jar"
     },
     {
       "path": "mods/blixgen-neoforge-1.21.1-1.4.0.jar",
