@@ -15,7 +15,7 @@
     "tiktok": null,
     "youtube": null
   },
-  "packVersion": "debian-1791849430238982387",
+  "packVersion": "debian-1791850015101445069",
   "files": [
     {
       "path": "mods/Almanac-1.21.1-2-neoforge-1.5.2.jar",
@@ -491,8 +491,8 @@
     },
     {
       "path": "mods/blixgen-neoforge-1.21.1-1.4.0.jar",
-      "size": 425686,
-      "sha256": "7534470dbc2e74e7e29733da15eef153433e246a9706f7c7cc094c3e471cf1f4",
+      "size": 426134,
+      "sha256": "3ad1a08848cbdceeebeef1a4c4ab9f05d0a5000fc607dea6e789b70645217a3f",
       "side": "both",
       "policy": "enforced",
       "url": "https://raw.githubusercontent.com/gfloxe/BLIXWOU/main/mods/blixgen-neoforge-1.21.1-1.4.0.jar"
